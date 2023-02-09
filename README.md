@@ -91,6 +91,37 @@ This is a simple personal website of **Nofrialdi** made using HTML and CSS.
    ![copy-nameserver](images/copy-nameserver.jpg)
    ![paste-nameserver](images/paste-nameserver.jpg)
 
+10. Go to custom site
+    ![go-site](images/go-to-custom-site.jpg)
+
 </main>
 
 </details>
+
+</details>
+
+<!-- <details>
+  <summary>Custom domain using Cloudflare</summary>
+
+<main class="content">
+
+1. Open Cloudflare.com
+   ![cloudflare](images/cloudflare.jpg)
+
+2. Login Cloudflare
+   ![login-cloudflare](images/login-cloudflare.jpg)
+
+3. Add Site
+   ![Add-site](images/add-site-cloudflare.jpg)
+
+4. Input site
+   ![input-site](images/input-site.jpg)
+   ![add-site1](<images/add-site(step-1).jpg>)
+
+5. Copy nameserver
+   ![copy-nameserver](images/copy-nameserver-cloudflare.jpg)
+   ![paste-nameserver](images/paste-nameserver-cloudflare.jpg)
+
+</main>
+
+</details> -->
