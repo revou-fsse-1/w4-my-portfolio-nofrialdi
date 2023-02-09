@@ -8,7 +8,7 @@ This is a simple personal website of **Nofrialdi** made using HTML and CSS.
 
 1. Link Github Pages :<https://revou-fsse-1.github.io/w4-my-portfolio-nofrialdi/>
 2. Link Netlify : <https://w4-my-portfolio.netlify.app/>
-3. Link Domainersia : <https://week4.nofri.xyz/>
+3. Link Domainersia :<https://week4.nofri.xyz/>
 
 ## Documentation
 
