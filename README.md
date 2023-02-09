@@ -8,7 +8,7 @@ This is a simple personal website of **Nofrialdi** made using HTML and CSS.
 
 1. Link Github Pages :<https://revou-fsse-1.github.io/w4-my-portfolio-nofrialdi/>
 2. Link Netlify : <https://w4-my-portfolio.netlify.app/>
-3. Link Domainersia :
+3. Link Domainersia : <https://week4.nofri.xyz/>
 
 ## Documentation
 
@@ -74,7 +74,22 @@ This is a simple personal website of **Nofrialdi** made using HTML and CSS.
    ![domain-page](images/domain-page.jpg)
 
 5. Managing Domain
-   ![import-site](images/managing-domain.jpg)
+   ![managing-domain](images/managing-domain.jpg)
+
+6. DNS Management
+   ![dns-management](images/dns-management.jpg)
+
+7. Add custom domain (Netlify)
+   ![add-cusmtom-domain](images/add-custom-domain.jpg)
+
+8. Input custom domain/subdomain
+   ![input-cusmtom-domain](images/input-custom-domain.jpg)
+   ![save-cusmtom-domain](images/save-custom-domain.jpg)
+
+9. DNS configurasi
+   ![dns-configurasi](images/awaiting-dns.jpg)
+   ![copy-nameserver](images/copy-nameserver.jpg)
+   ![paste-nameserver](images/paste-nameserver.jpg)
 
 </main>
 
